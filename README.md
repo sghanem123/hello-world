@@ -1,5 +1,5 @@
 # hello-world
 my first hello world repository
 this is a test
-look great
+looks great
 good luck
